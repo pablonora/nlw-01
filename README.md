@@ -119,14 +119,14 @@ Uma janela deve ser aberta no seu navegador com as informações para conectar-s
 
 Nas informações disponíveis na janela do navegador aberta através do comando anterior, para que seja possível conectar-se ao aplicativo, copie o endereço IP demonstrado no canto inferior esquerdo e substitua-o no arquivo `config.ts`. Neste mesmo arquivo é possível também alterar a porta na qual o servidor escuta pelas requisições. Os servidores devem reiniciar sozinhos após esta alteração.
 
-Mesmo reiniciando sozinho, o servidor web precisará ser reiniciado manualmente para que o arquivo possa ser copiado para dentro do projeto. Aperta `ctrl-d` no terminal do servidor web e em seguida execute novamente o comando `npm start`.
+Mesmo reiniciando sozinho, o servidor web precisará ser reiniciado manualmente para que o arquivo possa ser copiado para dentro do projeto. Aperte `ctrl-d` no terminal do servidor web e em seguida execute novamente o comando `npm start`.
 
 Para acessar a página web, digite no seu browser o endereço IP e a porta configurada no arquivo de configuração.
 Para acessar o aplicativo móvel, instale o aplicativo [Expo](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR) e escaneie o QRCode demonstrado na página. Caso não consiga, tente conectar-se diretamente através do endereço demonstrado na janela do navegador aberta no passo anterior.
 
 ## Licença
 
-Como este projeto foi nos dado com carinho pela [RocketSeat](https://rocketseat.com.br/), ele também está disponível gratuitamente para todos através da licença MIT. Detalhes: [LICENSE](https://github.com/pablonora/nlw-01/blob/master/LICENSE).
+Como este projeto foi nos dado com carinho pela [RocketSeat](https://rocketseat.com.br/), ele também está disponível neste repositório gratuitamente para todos através da licença MIT. Detalhes: [LICENSE](https://github.com/pablonora/nlw-01/blob/master/LICENSE).
 
 
 [nodejs]: https://nodejs.org/
