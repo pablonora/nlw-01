@@ -28,7 +28,7 @@
 
 # Sobre este respositório
 
-A Next Level Week é uma semana realizada pela [RocketSeat](https://rocketseat.com.br/). Durante a semana (seg-sex) são ensinados, através de cinco vídeo aulas, além de lives com conteúdos bonus, ferramentas para desenvolvimento web, servidor e móvel.
+A Next Level Week é uma semana realizada pela [RocketSeat](https://rocketseat.com.br/). Durante a semana (seg-sex) são ensinados, através de cinco vídeo aulas, além de lives com conteúdos bônus, ferramentas para desenvolvimento web, servidor e móvel.
 O projeto escolhido para ser ensinado durante a semana foi focado no meio ambiente.
 
 ## O projeto
@@ -37,7 +37,7 @@ O projeto, chamado Ecoleta, é um projeto desenvolvido basedo na semana internac
 
 ## As Tecnologias utilizadas
 
-Em relação ao layout, foi utilizado o [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/).
+Em relação ao layout, foi utilizado o [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/) para sua concepção.
 
 Entre as tecnologias utilizadas na codificação estão:
 
@@ -68,7 +68,7 @@ $ cd nlw-01
 
 ### Sem o GIT Instalado
 
-Extraia o arquivo compactado baixado e navegue até a pasta dele através do terminal utilizando o comando `cd`.
+Extraia o arquivo compactado baixado e navegue até a pasta dele através do terminal utilizando o comando `cd `.
 
 ### Preparação do servidor
 
