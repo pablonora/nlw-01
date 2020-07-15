@@ -33,7 +33,7 @@ O projeto escolhido para ser ensinado durante a semana foi focado no meio ambien
 
 ## O projeto
 
-O projeto, chamado Ecoleta, é um projeto desenvolvido basedo na semana internacional do meio ambiente. Possibilitando encontrar uma forma de conectar pessoas à empresas que coletam resíduos que não devem ser descartados no meio ambiente (Pilhas e baterias, óleo de cozinha etc...).
+O projeto, chamado Ecoleta, foi desenvolvido basedo na semana internacional do meio ambiente. Possibilitando encontrar uma forma de conectar pessoas à empresas que coletam resíduos que não devem ser descartados no meio ambiente (Pilhas e baterias, óleo de cozinha etc...).
 
 ## As Tecnologias utilizadas
 
@@ -70,7 +70,11 @@ $ cd nlw-01
 
 Extraia o arquivo compactado baixado e navegue até a pasta dele através do terminal utilizando o comando `cd `.
 
-### Preparação do servidor
+## Preparação da aplicação
+
+Para conseguir utilizar todo o sistema, é necessário preparar todos os 3 componentes necessários para o seu funcionamento.
+
+### Preparação do servidor de dados
 
 Para instalar o servidor que conecta-se com o banco de dados e disponibiliza os recursos da aplicação, insira os seguintes comandos:
 
@@ -85,7 +89,7 @@ $ npm run dev
 
 Não feche o terminal, pois o programa finalizará sua execução.
 
-### Preparação da web
+### Preparação do servidor web
 
 Para instalar o servidor que fornece as páginas web, abra um novo terminal e mova-se para o diretório principal da aplicação e insira os seguintes comandos:
 
