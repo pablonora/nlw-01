@@ -28,7 +28,7 @@
 
 # Sobre este respositório
 
-A Next Level Week é uma semana realizada pela [RocketSeat](https://rocketseat.com.br/). Durante a semana (seg-sex) são ensinados, através de cinco vídeo aulas, além de lives com conteúdos bônus, ferramentas para desenvolvimento web, servidor e móvel.
+A Next Level Week é uma semana realizada pela [Rocketseat](https://rocketseat.com.br/). Durante a semana (seg-sex) são ensinados, através de cinco vídeo aulas, além de lives com conteúdos bônus, ferramentas para desenvolvimento web, servidor e móvel.
 O projeto escolhido para ser ensinado durante a semana foi focado no meio ambiente.
 
 ## O projeto
@@ -130,7 +130,7 @@ Para acessar o aplicativo móvel, instale o aplicativo [Expo](https://play.googl
 
 ## Licença
 
-Como este projeto foi nos dado com carinho pela [RocketSeat](https://rocketseat.com.br/), ele também está disponível neste repositório gratuitamente para todos através da licença MIT. Detalhes: [LICENSE](https://github.com/pablonora/nlw-01/blob/master/LICENSE).
+Como este projeto foi nos dado com carinho pela [Rocketseat](https://rocketseat.com.br/), ele também está disponível neste repositório gratuitamente para todos através da licença MIT. Detalhes: [LICENSE](https://github.com/pablonora/nlw-01/blob/master/LICENSE).
 
 
 [nodejs]: https://nodejs.org/
